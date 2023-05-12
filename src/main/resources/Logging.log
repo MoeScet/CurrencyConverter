@@ -1,0 +1,40 @@
+00:42:40.022 [main] INFO  Converter.TransactionProcessor - Bob has cad in the wallet
+00:42:40.026 [main] INFO  Converter.TransactionProcessor - cad : 100.0 converted to usd : 76.98446412819399
+00:42:40.027 [main] INFO  Converter.TransactionProcessor - cad : 100.0 deducted from Bob's wallet
+00:42:40.027 [main] INFO  Converter.TransactionProcessor - usd : 76.98446412819399 deposited to Bob's wallet
+00:42:40.053 [main] FATAL Converter.TransactionProcessor - Bob doesn't have jyp in the wallet
+00:42:40.056 [main] INFO  Converter.TransactionProcessor - Susan has cad in the wallet
+00:42:40.056 [main] INFO  Converter.TransactionProcessor - cad : 20.0 converted to eur : 15.171403718926795
+00:42:40.056 [main] INFO  Converter.TransactionProcessor - cad : 20.0 deducted from Susan's wallet
+00:42:40.057 [main] INFO  Converter.TransactionProcessor - eur : 15.171403718926795 deposited to Susan's wallet
+00:42:40.059 [main] INFO  Converter.TransactionProcessor - Tommy has usd in the wallet
+00:42:40.060 [main] FATAL Converter.TransactionProcessor - User Tommy does not have enough usd to perform transaction
+00:42:40.063 [main] INFO  Converter.TransactionProcessor - Bob has usd in the wallet
+00:42:40.064 [main] INFO  Converter.TransactionProcessor - usd : 30.0 converted to hkd : 235.463375393127
+00:42:40.064 [main] INFO  Converter.TransactionProcessor - usd : 30.0 deducted from Bob's wallet
+00:42:40.064 [main] INFO  Converter.TransactionProcessor - hkd : 235.463375393127 deposited to Bob's wallet
+00:42:40.068 [main] FATAL Converter.TransactionProcessor - User John does not exist
+00:42:40.071 [main] INFO  Converter.TransactionProcessor - Bob has hkd in the wallet
+00:42:40.072 [main] INFO  Converter.TransactionProcessor - hkd : 184.0 converted to krw : 32233.111361339234
+00:42:40.072 [main] INFO  Converter.TransactionProcessor - hkd : 184.0 deducted from Bob's wallet
+00:42:40.072 [main] INFO  Converter.TransactionProcessor - krw : 32233.111361339234 deposited to Bob's wallet
+00:44:11.315 [main] INFO  Converter.TransactionProcessor - Bob has cad in the wallet
+00:44:11.319 [main] INFO  Converter.TransactionProcessor - cad : 100.0 converted to usd : 76.98446412819399
+00:44:11.319 [main] INFO  Converter.TransactionProcessor - cad : 100.0 deducted from Bob's wallet
+00:44:11.320 [main] INFO  Converter.TransactionProcessor - usd : 76.98446412819399 deposited to Bob's wallet
+00:44:11.346 [main] FATAL Converter.TransactionProcessor - Bob doesn't have jyp in the wallet
+00:44:11.350 [main] INFO  Converter.TransactionProcessor - Susan has cad in the wallet
+00:44:11.350 [main] INFO  Converter.TransactionProcessor - cad : 20.0 converted to eur : 15.171403718926795
+00:44:11.351 [main] INFO  Converter.TransactionProcessor - cad : 20.0 deducted from Susan's wallet
+00:44:11.351 [main] INFO  Converter.TransactionProcessor - eur : 15.171403718926795 deposited to Susan's wallet
+00:44:11.354 [main] INFO  Converter.TransactionProcessor - Tommy has usd in the wallet
+00:44:11.355 [main] FATAL Converter.TransactionProcessor - User Tommy does not have enough usd to perform transaction
+00:44:11.358 [main] INFO  Converter.TransactionProcessor - Bob has usd in the wallet
+00:44:11.358 [main] INFO  Converter.TransactionProcessor - usd : 30.0 converted to hkd : 235.463375393127
+00:44:11.358 [main] INFO  Converter.TransactionProcessor - usd : 30.0 deducted from Bob's wallet
+00:44:11.359 [main] INFO  Converter.TransactionProcessor - hkd : 235.463375393127 deposited to Bob's wallet
+00:44:11.362 [main] FATAL Converter.TransactionProcessor - User John does not exist
+00:44:11.365 [main] INFO  Converter.TransactionProcessor - Bob has hkd in the wallet
+00:44:11.366 [main] INFO  Converter.TransactionProcessor - hkd : 184.0 converted to krw : 32233.111361339234
+00:44:11.366 [main] INFO  Converter.TransactionProcessor - hkd : 184.0 deducted from Bob's wallet
+00:44:11.367 [main] INFO  Converter.TransactionProcessor - krw : 32233.111361339234 deposited to Bob's wallet
